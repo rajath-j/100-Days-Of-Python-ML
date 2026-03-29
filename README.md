@@ -1,7 +1,5 @@
 # 🐍 100 Days of Python & AI/ML Challenge
-
 Welcome to my 100 Days of Code challenge! I am following a structured 2026 roadmap to go from Python basics to Machine Learning and AI deployment. 
-
 This repository serves as a daily log of my code, projects, and learning progress.
 
 ---
@@ -17,14 +15,14 @@ This repository serves as a daily log of my code, projects, and learning progres
 ### 📅 Daily Log
 
 #### Phase 1: Python Basics
-
-* **Day 1:** Variables, Data Types, and Type Casting. 
+* **Day 1:** Variables, Data Types, and Type Casting.
   * 💻 *Project:* CLI Age Calculator (`task1_age.py`)
-* **Day 2:** Operators and Conditionals (`if/elif/else`). 
+* **Day 2:** Operators and Conditionals (`if/elif/else`).
   * 💻 *Project:* E-Commerce Discount Calculator (`task2_discount.py`)
 * **Day 3:** Loops (`for` & `while`) and `break` statements.
   * 💻 *Project:* Secret Number Guessing Game (`task3_guessing_game.py`)
-* **Day 4:** *(Up Next!)* Functions & Core Data Structures (Lists, Dictionaries).
+* **Day 4:** Functions & Lists.
+  * 💻 *Project:* To-Do List Manager (`task4_todo_list.py`)
 
 *(I will update this log every day as I complete new tasks!)*
 
