@@ -21,7 +21,7 @@ This repository serves as a daily log of my code, projects, and learning progres
   * 💻 *Project:* E-Commerce Discount Calculator (`task2_discount.py`)
 * **Day 3:** Loops (`for` & `while`) and `break` statements.
   * 💻 *Project:* Secret Number Guessing Game (`task3_guessing_game.py`)
-* **Day 4:** Functions & Lists.
+* **Day 4:** Functions & Lists. 
   * 💻 *Project:* To-Do List Manager (`task4_todo_list.py`)
 * **Day 5:** Dictionaries & Sets.
   * 💻 *Project:* Digital Contact Book (`task5_contact_book.py`)
