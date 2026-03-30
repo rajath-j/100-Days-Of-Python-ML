@@ -25,6 +25,8 @@ This repository serves as a daily log of my code, projects, and learning progres
   * 💻 *Project:* To-Do List Manager (`task4_todo_list.py`)
 * **Day 5:** Dictionaries & Sets.
   * 💻 *Project:* Digital Contact Book (`task5_contact_book.py`)
+* **Day 6:** Nested Dictionaries & CRUD Operations.
+  * 💻 *Project:* Virtual Garage Manager (`task6_virtual_garage.py`)
 
 *(I will update this log every day as I complete new tasks!)*
 
