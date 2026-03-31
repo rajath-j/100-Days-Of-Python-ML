@@ -27,6 +27,8 @@ This repository serves as a daily log of my code, projects, and learning progres
   * 💻 *Project:* Digital Contact Book (`task5_contact_book.py`)
 * **Day 6:** Nested Dictionaries & CRUD Operations.
   * 💻 *Project:* Virtual Garage Manager (`task6_virtual_garage.py`)
+* **Day 7:** Object-Oriented Programming (OOP) - Classes & Inheritance.
+  * 💻 *Project:* Simple RPG Game with Character Classes (`task7_rpg_game.py`)
 
 *(I will update this log every day as I complete new tasks!)*
 
