@@ -38,3 +38,6 @@ This repository serves as a daily log of my code, projects, and learning progres
 * **Language:** Python 3
 * **Editor:** Visual Studio Code (VS Code)
 * **Version Control:** Git & GitHub
+
+### 📧 Contact
+* **Email:** rajath.j31@gmail.com
