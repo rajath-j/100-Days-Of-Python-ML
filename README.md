@@ -34,6 +34,14 @@ This repository serves as a daily log of my code, projects, and learning progres
 
 ---
 
+#### Phase 2: Object-Oriented Programming Deep Dive
+* **Day 8:** Magic/Dunder Methods (`__str__`, `__len__`, `__add__`).
+  * 💻 *Project:* RPG Inventory System (`task8_inventory.py`)
+* **Day 9:** Encapsulation and Private Variables (`__`).
+  * 💻 *Project:* Secure Bank Account (`task9_bank_account.py`)
+
+---
+
 ### 🛠️ Tools & Technologies I'm Using
 * **Language:** Python 3
 * **Editor:** Visual Studio Code (VS Code)
