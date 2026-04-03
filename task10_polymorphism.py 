@@ -1,0 +1,30 @@
+# 1. Base Class
+class Monster:
+    def __init__(self, name):
+        self.name = name
+
+    def attack(self):
+        print(f"The monster roars!")
+
+# 2. Child Class 1
+class Goblin(Monster):
+    def attack(self):
+        print(f"🗡️ {self.name} the Goblin swings a rusty dagger for 10 damage!")
+
+# 3. Child Class 2
+class Dragon(Monster):
+    def attack(self):
+        print(f"🔥 {self.name} the Dragon breathes fire for 100 damage!")
+
+# 4. Create a list of different monsters
+wave_of_enemies = [
+    Goblin("Gorbag"),
+    Dragon("Smaug"),
+    Goblin("Snaga")
+]
+
+print("⚠️ A wave of enemies appears!\n")
+
+# 5. Loop through and make each one attack
+for enemy in wave_of_enemies:
+    enemy.attack()
